@@ -1,0 +1,33 @@
+{
+  "name": "Chat",
+  "version": "2.1.0",
+  "description": "A real-time web chat with Node.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ip": "^1.1.5",
+    "ws": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danilobd/Chat.git"
+  },
+  "authors": [
+    {
+      "name": "Danilo Dutra",
+      "email": "contato@danbd.me",
+      "homepage": "https://danbd.me"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danilobd/Chat/issues"
+  },
+  "homepage": "https://github.com/danilobd/Chat"
+}
